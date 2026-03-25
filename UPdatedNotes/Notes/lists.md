@@ -188,7 +188,7 @@ else:
     print("Tea types are available.")
 ```
 
-> **Note:** We will explore more list operations when we start working with more complex data structures.
+> **Note:** We will explore more list operations when we start working with more complex data structures. Like sorting, merging etc.
 
 ### List Comprehensions
 
